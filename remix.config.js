@@ -9,6 +9,10 @@ const baseConfig =
  */
 module.exports = {
   ...baseConfig,
+  // See https://remix.run/docs/en/main/file-conventions/route-files-v2
+  future: {
+    v2_routeConvention: true,
+  },
   // This works out of the box with the Netlify adapter, but you can
   // add your own custom config here if you want to.
   //
