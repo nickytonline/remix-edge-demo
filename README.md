@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f30d164e-6e5f-4765-a27a-adaa4f789f38/deploy-status)](https://app.netlify.com/sites/remix-edge-functions-demo/deploys)
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
